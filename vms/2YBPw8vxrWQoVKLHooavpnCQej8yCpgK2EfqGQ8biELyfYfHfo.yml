@@ -1,0 +1,14 @@
+id: Subnet-EVM
+alias: 2YBPw8vxrWQoVKLHooavpnCQej8yCpgK2EfqGQ8biELyfYfHfo
+homepage: ""
+description: Subnet EVM is a simplified version of Coreth VM (C-Chain). It implements the Ethereum Virtual Machine and supports Solidity smart contracts as well as most other Ethereum client functionality
+maintainers:
+    - ava-labs
+installScript: ""
+binaryPath: ""
+url: https://github.com/ava-labs/subnet-evm/releases/download/v0.5.10/subnet-evm_0.5.10_linux_amd64.tar.gz
+sha256: 6c85669fcf5e4fedc89a5c760d8451410566f0bd26830713ab9119a2dce199a7
+version:
+    major: 0
+    minor: 5
+    patch: 10
